@@ -54,6 +54,10 @@
     })
   }
 
+function sendFunction() {
+   alert('Your From is Updated successfully')
+}
+
   /**
    * Big Picture Popup for images and videos
    */
